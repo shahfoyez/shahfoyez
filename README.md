@@ -1,4 +1,4 @@
-# Hi there I'm Shah Foyez
+# Shah Foyez
 
 ### Web Developer
 
