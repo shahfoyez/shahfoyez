@@ -1,6 +1,4 @@
 <h1 align="center">Shah Foyez</h1>
-<h3 align="center">A passionate fullstack developer from Bangladesh</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahfoyez&label=Profile%20views&color=0e75b6&style=flat" alt="shahfoyez" /> </p>
 
 - 🔭 I’m currently working on Laravel [DD](#)
