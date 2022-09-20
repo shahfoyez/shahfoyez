@@ -1,7 +1,7 @@
 <h1 align="center">Shah Foyez</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahfoyez&label=Profile%20views&color=0e75b6&style=flat" alt="shahfoyez" /> </p>
 
-🔭 I’m currently working on Laravel [ACASTRY](#)
+🔭 Currently working on [ACASTRY](#)
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=shahfoyez&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahfoyez&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
