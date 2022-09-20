@@ -7,8 +7,6 @@
 Contact me
 [LinkedIn](https://www.linkedin.com/in/shahfoyez/) || [Email](shahfoyez7@gmail.com) 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=shahfoyez&theme=dark" />
 
 
-
-![Github Status](https://github-readme-stats.vercel.app/api?username=shahfoyez&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahfoyez&show_icons=true&theme=radical&layout=compact)](https://github.com/shahfoyez/github-readme-stats)
+![Github Status](https://github-readme-stats.vercel.app/api?username=shahfoyez&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahfoyez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
