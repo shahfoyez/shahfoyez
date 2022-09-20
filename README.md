@@ -7,7 +7,7 @@
 Contact me
 [LinkedIn](https://www.linkedin.com/in/shahfoyez/) || [Email](shahfoyez7@gmail.com) 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<shahfoyez>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=shahfoyez&theme=dark" />
 
 
 
