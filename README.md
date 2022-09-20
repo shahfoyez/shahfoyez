@@ -9,4 +9,4 @@ Contact me
 
 
 
-![Github Status](https://github-readme-stats.vercel.app/api?username=shahfoyez&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahfoyez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Github Status](https://github-readme-stats.vercel.app/api?username=shahfoyez&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahfoyez&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
