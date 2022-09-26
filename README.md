@@ -4,7 +4,7 @@
 
 🔭 Currently working on [ACASTRY](#)
 
-![Github Status](https://github-readme-stats.vercel.app/api?username=shahfoyez&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahfoyez&show_icons=true&theme=radical&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+![Github Status](https://github-readme-stats.vercel.app/api?username=shahfoyez&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahfoyez&show_icons=true&theme=radical&layout=compact&langs_count=7&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
