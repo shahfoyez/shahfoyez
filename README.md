@@ -2,7 +2,7 @@
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://bd.linkedin.com/in/shah-foyez-933a27206) [![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:shahfoyez7@gmail.com)
 
-🔭 Currently working on [LUT2MS](#)
+🔭 Currently working o [LUT2MS](#)
 
 <!-- ![Github Status](https://github-readme-stats.vercel.app/api?username=shahfoyez&show_icons=true&theme=radical) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahfoyez&show_icons=true&theme=radical&layout=compact&langs_count=7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
