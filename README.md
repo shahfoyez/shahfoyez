@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=shahfoyez&label=Profile%20views&color=0e75b6&style=flat" alt="shahfoyez" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/Connect-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/shah-foyez-933a27206)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://bd.linkedin.com/in/shah-foyez-933a27206)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahfoyez7@gmail.com)
 
 ## 🔭 Currently working on [LUT2MS](#)
