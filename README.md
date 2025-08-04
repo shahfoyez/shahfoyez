@@ -36,7 +36,7 @@ I'm currently open to full-time opportunities and collaborations.
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: left; gap: 20px;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=shahfoyez&theme=darcula&show_icons=true&hide_border=true&count_private=true" style="height: 180px" />
   <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahfoyez&theme=darcula&hide_border=true" style="height: 180px" /> -->
