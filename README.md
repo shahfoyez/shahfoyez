@@ -1,6 +1,7 @@
-<p align="left">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2>👋 About Me</h2>
   <img src="https://komarev.com/ghpvc/?username=shahfoyez&label=Profile%20views&color=0e75b6&style=flat" alt="shahfoyez" />
-</p>
+</div>
 
 ## 👋 About Me
 
