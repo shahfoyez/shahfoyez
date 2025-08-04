@@ -2,20 +2,15 @@
   <img src="https://komarev.com/ghpvc/?username=shahfoyez&label=Profile%20views&color=0e75b6&style=flat" alt="shahfoyez" />
 </p>
 
----
-
 ## 👋 About Me
 
 Hi there! I'm **Shah Foyez**, a passionate Full Stack Developer with a focus on clean architecture, scalable APIs, and modern frontend frameworks. I love working with Laravel, WordPress, Alpine.js, Vue, TailwindCSS, and diving deep into system design.  
 I'm currently open to full-time opportunities and collaborations.
 
----
-
 ## 🔭 Currently Working On
 
 - 🚀 [LUT2MS](#) — A project focused on [insert quick purpose here if needed]
 
----
 
 ## 💻 Tech Stack
 
@@ -37,7 +32,6 @@ I'm currently open to full-time opportunities and collaborations.
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
----
 
 ## 📊 GitHub Stats
 
@@ -50,8 +44,6 @@ I'm currently open to full-time opportunities and collaborations.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahfoyez&theme=darcula&show_icons=true&hide_border=true&layout=compact" height="180" />
 
 </div>
-
----
 
 ## 🌐 Find Me Elsewhere
 
