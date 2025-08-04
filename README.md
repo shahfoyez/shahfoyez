@@ -6,11 +6,6 @@
 Hi there! I'm **Shah Foyez**, a passionate Full Stack Developer with a focus on clean architecture, scalable APIs, and modern frontend frameworks. I love working with Laravel, WordPress, Alpine.js, Vue, TailwindCSS, and diving deep into system design.  
 I'm currently open to full-time opportunities and collaborations.
 
-## 🔭 Currently Working On
-
-- 🚀 [LUT2MS](#) — A project focused on [insert quick purpose here if needed]
-
-
 ## 💻 Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
