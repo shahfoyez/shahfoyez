@@ -1,4 +1,4 @@
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -34,7 +34,7 @@ Hi there! I'm **Shah Foyez**, a passionate Full Stack Developer with a focus on 
 I'm currently open to full-time opportunities and collaborations.
 
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
@@ -49,7 +49,7 @@ I'm currently open to full-time opportunities and collaborations.
 
 
 
-### 🌐 Find Me Elsewhere
+## 🌐 Find Me Elsewhere
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/shah-foyez-933a27206)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/shahfoyez)
