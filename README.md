@@ -34,7 +34,7 @@ I'm currently open to full-time opportunities and collaborations.
 
   <img src="https://github-readme-stats.vercel.app/api?username=shahfoyez&theme=darcula&show_icons=true&hide_border=true&count_private=true" style="height: 180px" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahfoyez&theme=darcula&hide_border=true" style="height: 180px" />
+
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahfoyez&theme=darcula&show_icons=true&hide_border=true&layout=compact" style="height: 180px" />
 
