@@ -1,11 +1,3 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h2>👋 About Me</h2>
-  <img src="https://komarev.com/ghpvc/?username=shahfoyez&label=Profile%20views&color=0e75b6&style=flat" alt="shahfoyez" />
-</div>
-
-Hi there! I'm **Shah Foyez**, a passionate Full Stack Developer with a focus on clean architecture, scalable APIs, and modern frontend frameworks. I love working with Laravel, WordPress, Alpine.js, Vue, TailwindCSS, and diving deep into system design.  
-I'm currently open to full-time opportunities and collaborations.
-
 ## 💻 Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -27,6 +19,15 @@ I'm currently open to full-time opportunities and collaborations.
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2>👋 About Me</h2>
+  <img src="https://komarev.com/ghpvc/?username=shahfoyez&label=Profile%20views&color=0e75b6&style=flat" alt="shahfoyez" />
+</div>
+
+Hi there! I'm **Shah Foyez**, a passionate Full Stack Developer with a focus on clean architecture, scalable APIs, and modern frontend frameworks. I love working with Laravel, WordPress, Alpine.js, Vue, TailwindCSS, and diving deep into system design.  
+I'm currently open to full-time opportunities and collaborations.
+
+
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
@@ -36,7 +37,6 @@ I'm currently open to full-time opportunities and collaborations.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahfoyez&theme=darcula&hide_border=true" style="height: 180px" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahfoyez&theme=darcula&show_icons=true&hide_border=true&layout=compact" style="height: 180px" />
-
 
 </div>
 
