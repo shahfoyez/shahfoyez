@@ -36,13 +36,16 @@ I'm currently open to full-time opportunities and collaborations.
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=shahfoyez&theme=darcula&show_icons=true&hide_border=true&count_private=true" style="width: 320px; min-width: 260px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahfoyez&theme=darcula&show_icons=true&hide_border=true&count_private=true" style="width:320px; min-width:260px;" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahfoyez&theme=darcula&hide_border=true" style="width: 320px; min-width: 260px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahfoyez&theme=darcula&hide_border=true" style="width:320px; min-width:260px;" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahfoyez&theme=darcula&show_icons=true&hide_border=true&layout=compact" style="width: 320px; min-width: 260px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahfoyez&theme=darcula&show_icons=true&hide_border=true&layout=compact" style="width:320px; min-width:260px;" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=shahfoyez&theme=darkhub&row=1&column=4" style="width:320px; min-width:260px;" />
 
 </div>
+
 
 
 
