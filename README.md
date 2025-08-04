@@ -45,11 +45,11 @@ I love to read books and listen to music.
 - :busts_in_silhouette: I actively manage a few popular Facebok groups - [WordPressians](https://www.facebook.com/groups/241884142616448), [Talk.js](https://www.facebook.com/groups/talkjs.net), [phpXperts](https://www.facebook.com/groups/256755924335725), [Laravel Bangladesh](https://www.facebook.com/groups/188317497974479), and [ReactJS Bangladesh](https://www.facebook.com/groups/903615493305779)
 
 ### Numbers
-![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=shahfoyez&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinhayder&theme=darcula&hide_border=true)
+![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahfoyez&theme=darcula&hide_border=true)
 
-![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahfoyez&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
 
