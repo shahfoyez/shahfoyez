@@ -3,8 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=shahfoyez&label=Profile%20views&color=0e75b6&style=flat" alt="shahfoyez" />
 </div>
 
-## 👋 About Me
-
 Hi there! I'm **Shah Foyez**, a passionate Full Stack Developer with a focus on clean architecture, scalable APIs, and modern frontend frameworks. I love working with Laravel, WordPress, Alpine.js, Vue, TailwindCSS, and diving deep into system design.  
 I'm currently open to full-time opportunities and collaborations.
 
