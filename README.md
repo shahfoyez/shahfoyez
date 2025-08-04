@@ -42,7 +42,6 @@ I'm currently open to full-time opportunities and collaborations.
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahfoyez&theme=darcula&show_icons=true&hide_border=true&layout=compact" style="width:320px; min-width:260px;" />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=shahfoyez&theme=darkhub&row=1&column=4" style="width:320px; min-width:260px;" />
 
 </div>
 
